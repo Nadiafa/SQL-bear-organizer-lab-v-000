@@ -1,4 +1,9 @@
-INSERT INTO bears
+INSERT INTO bears (name TEXT,
+  age INTEGER,
+  gender TEXT,
+  color TEXT,
+  temperament TEXT,
+  alive INTEGER) VALUES ();
 
 Mr. Chocolate
 Rowdy
