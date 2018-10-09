@@ -8,3 +8,13 @@ Melissa
 Grinch
 Wendy
 unnamed
+
+
+
+
+  name TEXT,
+  age INTEGER,
+  gender TEXT,
+  color TEXT,
+  temperament TEXT,
+  alive INTEGER
