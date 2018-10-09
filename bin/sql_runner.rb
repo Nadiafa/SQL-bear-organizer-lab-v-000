@@ -2,7 +2,7 @@ require_relative 'environment'
 require 'pry'
 
 class SQLRunner
-  def initialize(SQLite3::Database.new('../db/lab_database.db'))
+  def initialize(db)
     @db = db
   end
 
