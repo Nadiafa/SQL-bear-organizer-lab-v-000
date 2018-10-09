@@ -1,9 +1,6 @@
-INSERT INTO bears (name TEXT,
-  age INTEGER,
-  gender TEXT,
-  color TEXT,
-  temperament TEXT,
-  alive INTEGER) VALUES ();
+INSERT INTO bears (name, age, gender, color, temperament,alive) VALUES ();
+
+
 
 Mr. Chocolate
 Rowdy
@@ -14,12 +11,3 @@ Grinch
 Wendy
 unnamed
 
-
-
-
-  name TEXT,
-  age INTEGER,
-  gender TEXT,
-  color TEXT,
-  temperament TEXT,
-  alive INTEGER
