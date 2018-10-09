@@ -1,13 +1,11 @@
-INSERT INTO bears (name, age, gender, color, temperament,alive) VALUES ();
+INSERT INTO bears (name, age, gender, color, temperament,alive) VALUES ("Mr. Chocolate", , , , ,1);
+INSERT INTO bears (name, age, gender, color, temperament,alive) VALUES ("Rowdy", , , , ,1);
+INSERT INTO bears (name, age, gender, color, temperament,alive) VALUES ("Tabitha", , , , ,1);
+INSERT INTO bears (name, age, gender, color, temperament,alive) VALUES ("Sergeant Brown", , , , ,1);
+INSERT INTO bears (name, age, gender, color, temperament,alive) VALUES ("Melissa", , , , ,1);
+INSERT INTO bears (name, age, gender, color, temperament,alive) VALUES ("Grinch", , , , ,1);
+INSERT INTO bears (name, age, gender, color, temperament,alive) VALUES ("Wendy", , , , ,1);
+INSERT INTO bears (name, age, gender, color, temperament,alive) VALUES (NULL, , , , ,0);
 
 
-
-Mr. Chocolate
-Rowdy
-Tabitha
-Sergeant Brown
-Melissa
-Grinch
-Wendy
-unnamed
 
